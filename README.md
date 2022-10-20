@@ -1,8 +1,9 @@
 # music-backend-api
 
-> build:
+> build and run:
 ```
 go build cmd/apiserver/main.go
+./main
 ```
 
 > run:
